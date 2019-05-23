@@ -5,9 +5,6 @@
 主要內容會先介紹到基本的資料庫概念 到最後如何實作，主要使用laravel 的ORM進行操作，sql語法部分僅介紹，不深入討論
 
 ---
-
-[Github - ToDoList範例](https://github.com/Hifounder/laraval_ToDoList)
-
 Database
 在建立資料表時，可以透過兩種方式建立：
 1. 手動建立
